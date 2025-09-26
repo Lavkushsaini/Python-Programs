@@ -1,4 +1,3 @@
-#Dieting 
 try:
     def getdate():
         import datetime
