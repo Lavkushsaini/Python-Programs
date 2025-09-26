@@ -1,4 +1,4 @@
-#Dieting Program
+#Dieting 
 try:
     def getdate():
         import datetime
