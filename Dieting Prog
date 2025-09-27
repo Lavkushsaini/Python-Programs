@@ -4,7 +4,7 @@ try:
         return datetime.datetime.now()
     t=getdate()
     num=int(input("Who are you?\nPress 1 for Lavkush\nPress 2 for Kunal\nPress 3 for Harish"))
-    #for siddhnat1
+    #for Lavkush
     if num==1:
         num2=str(input("Do you want to add or retrive?"))
         if num2=="add":
